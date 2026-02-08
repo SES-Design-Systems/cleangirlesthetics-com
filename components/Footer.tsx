@@ -12,7 +12,7 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-col items-center justify-center gap-4 md:row-span-2 ">
                     <Primary text="BOOK NOW" link="https://book.heygoldie.com/Cleangirlesthetics/checkout" />
-                    <Primary text="LEAVE US A REVIEW" link="https://share.google/NMhxTnyWNHIqIn9t3" />
+                    <Primary text="LEAVE US A REVIEW" link="https://g.page/r/CbGIueiR_x7JEAI/review" />
                 </div>
                 <div className="flex flex-col items-center justify-center gap-4 font-outfit">
                 {navItems.map((item) => (
