@@ -35,7 +35,7 @@ export default function Footer() {
             </div>
             <div className="bg-gray -mt-1 flex items-center justify-between w-full p-1">
                 <p className="!text-xs">Copyright Clean Girl Esthetics 2025</p>
-                <a className="text-xs font-outfit" href="https://craigsampson.com">Managed by CS</a>
+                <a className="text-xs font-outfit" href="https://craigsampson.com">Website by CS</a>
 
             </div>
         </>
